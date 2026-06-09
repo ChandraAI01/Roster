@@ -1,0 +1,17 @@
+Resource Name,Enterprise ID,Career Level,Level,Shift,1-Wed,2-Thu,3-Fri,4-Sat,5-Sun,6-Mon,7-Tue,8-Wed,9-Thu,10-Fri,11-Sat,12-Sun,13-Mon,14-Tue,15-Wed,16-Thu,17-Fri,18-Sat,19-Sun,20-Mon,21-Tue,22-Wed,23-Thu,24-Fri,25-Sat,26-Sun,27-Mon,28-Tue,29-Wed,30-Thu,31-Fri
+Bhagya Lakshmi,p.a.bhagya.lakshmi,12,L1.5,A,A,A,WO,WO,A,B,B,B,B,WO,WO,C,C,C,C,C,WO,WO,A,A,A,A,WO,WO,B,B,B,B,B
+Jerin Victoria,jerin.darwin.joseph,12,L1.5,B,B,B,WO,WO,C,C,C,C,C,WO,WO,A,A,A,A,A,WO,WO,B,B,B,WO,WO,C,C,C,C,C
+Prasanna Lakshmi,k.b.prasanna.lakshmi,12,L1.5,C,C,C,WO,WO,A,A,A,A,A,WO,WO,B,B,B,B,B,WO,WO,C,C,C,WO,WO,A,A,A,A,A
+Sahithi Kappa,Kapa.sahithi,12,L1.5,A,WO,WO,A,A,A,B,B,B,B,WO,WO,C,C,C,C,C,WO,WO,A,A,A,A,WO,WO,B,B,B,B,B
+Mathav Thirumalsamy,mathav.thirumalsamy,12,L1.5,B,B,WO,WO,B,C,C,C,C,C,WO,WO,A,A,A,A,A,WO,WO,B,B,B,B,WO,WO,C,C,C,C,C
+Sai Priya Kota,kota.sai.priya,12,L1.5,C,C,C,C,WO,WO,A,A,A,A,WO,WO,B,B,B,B,B,WO,WO,C,C,C,C,WO,WO,A,A,A,A,A
+Nirmal Kumar,nirmal.b.kumar.s,11,L2,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A
+Ankita Bidwai,ankita.bidwai,11,L2,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B
+Maruti Mane,maruti.babruvan.mane,10,L2,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A
+Omkar Kale,omkar.b.kale,10,L2,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B
+Singaram CT,singaram.ct,10,L2,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A
+Rohit Pawar,rohit.pralhad.pawar,10,L2,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B,B,OS,OP,A,A,A,A,A,OP,OS,B,B,B,B
+Chandra Shekhar Yadav,c.shekhar.yadav,9,AD,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G
+Suraj Narang,suraj.narang,8,L3,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G
+Vikram Kumar,k.vikram,8,L3,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G
+Brijesh Agrawal,brijesh.agrawal,6,L3,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G,G,WO,WO,G,G,G,G
